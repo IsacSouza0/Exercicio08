@@ -1,0 +1,24 @@
+.memes{ 
+    display: block;
+    height: 20%;
+    width: 20%;
+}
+
+.escondida {
+    content: url(https://ae01.alicdn.com/kf/HTB1Bv6Ae9fD8KJjSszhq6zIJFXau/Preto-damasco-Floral-Real-backdrops-Vinil-Fundo-da-parede-de-pano-de-Alta-qualidade-de-impress.jpg_640x640.jpg);
+
+}
+
+.row1{
+    display: flex;
+}
+
+
+.row2{
+    display: flex;
+}
+
+img{
+    cursor: pointer;
+}
+
